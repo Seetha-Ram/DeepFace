@@ -4,4 +4,5 @@ numpy
 Pillow
 deepface   
 gunicorn
-tensorflow
+Tensorflow==1.13.1
+keras==2.1.5 
