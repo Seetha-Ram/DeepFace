@@ -5,4 +5,4 @@ Pillow
 deepface   
 gunicorn
 Tensorflow==2.12.0
-keras==2.1.5 
+keras 
